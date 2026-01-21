@@ -79,5 +79,9 @@ The objective of this experiment is to understand the different functionalities 
 
 8. This indicates that the oscilloscope is now **properly set up and calibrated**, and ready for use.
 
+## Learnings
+
+In this experiment, we were able to become familiar with the basic operation, setup, and calibration of an oscilloscope. We learned the importance of properly adjusting the general, vertical, horizontal, and triggering controls to obtain a stable and accurate waveform display. Correct calibration of the oscilloscope ensures that measurements are reliable and precise. Additionally, this experiment enhances our knowledge about the different functionalities and settings of an Oscilloscope. Overall, This experiment is very important to do whenever we will be using an Oscilloscope, as this ensures the accuracy and reliability of the output we will be gathered for the future experiments. 
+
 
 
