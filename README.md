@@ -103,6 +103,16 @@ Using the oscilloscope, we were able to observe the three different **analog sig
   height="380"
 />
 
+#### 2.1.2 Measured Values of the Given Analog Signals
+
+Using the oscilloscope’s Measure function, we were able to determine the output voltage, frequency, and period produced by the master signals. The measured values are shown in the table below.
+
+<img 
+  src="https://github.com/user-attachments/assets/9474acbf-e588-4c7c-a958-dc6c13b198bb"
+  width="500"
+  height="380"
+/>
+
 
 
 
