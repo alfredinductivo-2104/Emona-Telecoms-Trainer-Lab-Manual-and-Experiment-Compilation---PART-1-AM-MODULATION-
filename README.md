@@ -163,6 +163,28 @@ Upon adjusting the Phase control about the middle of its travel, it is observed 
 
 <img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/d55a6380-b84f-4ecc-8c60-c6c2aa02085e" />
 
+### 2.6 Voltage Controlled Oscillator (VCO)
+
+The sixth module tested was the **Voltage Controlled Oscillator (VCO)**, which is similar to the Master Signals Module. However, unlike the Master Signals Module, which is limited to two outputs (one analog and one digital), the VCO provides **six outputs**, three for each type of signal. The main advantage of the VCO is that it allows the user to **control the output frequency**, whereas the Master Signals Module provides only fixed frequencies.
+
+#### 2.6.1
+
+Since the VCO itself generates the signal, **no input signal is required**. The module was directly connected to a calibrated oscilloscope for observation.
+
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/2f21018a-b5b9-484a-9e29-4df64a16d9f7" />
+
+#### 2.6.2
+
+Upon observing the VCO output, it was noted that the signal frequency was not completely stable and varied depending on the control setting. In the example shown in the figure, the VCO control was rotated **counterclockwise**, resulting in a **low frequency** and a signal that appeared less stable on the oscilloscope.
+
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/7dc735ed-5edc-4fdc-bf92-3b7b7179bc73" />
+
+#### 2.6.3
+
+Additionally, as we adjusted the Gain Control, the amplitude of the output signal increased or decreased accordingly, demonstrating the VCO’s ability to modify signal strength. By using the Frequency Adjust Control, we observed a continuous change in the output frequency, showing that the VCO allows precise tuning of the signal frequency over a specific range. While, Adjusting the Range Control shifted the overall frequency limits of the VCO, enabling the output to operate within low, medium, or high-frequency ranges. 
+
+
+
 
 
 
