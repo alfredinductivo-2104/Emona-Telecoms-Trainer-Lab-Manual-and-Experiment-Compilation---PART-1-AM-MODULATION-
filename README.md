@@ -183,6 +183,37 @@ Upon observing the VCO output, it was noted that the signal frequency was not co
 
 Additionally, as we adjusted the Gain Control, the amplitude of the output signal increased or decreased accordingly, demonstrating the VCO’s ability to modify signal strength. By using the Frequency Adjust Control, we observed a continuous change in the output frequency, showing that the VCO allows precise tuning of the signal frequency over a specific range. While, Adjusting the Range Control shifted the overall frequency limits of the VCO, enabling the output to operate within low, medium, or high-frequency ranges. 
 
+---
+
+### 3. Modelling Equations using the Emona Telecoms-Trainer
+
+### 3.1 Combining Two Sine Wave Signals
+
+Two 2 kHz sine wave signals were used as input and passed through the Phase Shifter and Adder Module. In the first part, we used the Adder Module to combine the two 2 kHz sine signals, as shown in the figure below.
+
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/bdde3624-67d6-4671-9be7-50ebc269ca13" />
+
+OUTPUT
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/7a8b2d39-a6b0-46e0-aa25-cdd4caa0e7f9" />
+
+#### 3.1.1
+
+Using the Gain Control function, we adjusted the gain until the output matched the size of the input. In the experiment, we measured an output voltage of 3.8 V and an input voltage of 3.8 V, which clearly shows that **Voltage Output = Voltage Input** when the gain is properly adjusted.
+
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/0d56c285-c4a7-41ea-8384-3c7df0c4b03e" />
+
+### 3.2 Phase-Shifted Input through Adder Module
+
+After that, we changed the other input of the Adder Module and first passed it through the Phase Shifter Module, with the output then connected back to the Adder Module, as shown in the figure below.
+
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/8c5aa84b-f2e3-40c0-85e6-4fb2fbc3cd03" />
+
+#### 3.2.1
+As observed, the output voltage is now different from the previous case when the same input signal passed through the Adder alone. While the output voltage, frequency, and period remain the same, it is clearly observable that the **phase of the output signal has changed**. This occurs because one input is a regular sine wave, while the other is a phase-shifted signal. When these signals are combined, the result is a sine wave with a phase shift corresponding to the adjusted input.
+
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/601bdffe-c149-47c1-b07a-15a1d2e72232" />
+
+
 
 
 
