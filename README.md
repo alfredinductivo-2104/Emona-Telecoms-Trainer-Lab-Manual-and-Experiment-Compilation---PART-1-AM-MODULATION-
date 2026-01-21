@@ -67,7 +67,7 @@ The objective of this experiment is to understand the different functionalities 
 
 In this experiment, we were able to become familiar with the basic operation, setup, and calibration of an oscilloscope. We learned the importance of properly adjusting the general, vertical, horizontal, and triggering controls to obtain a stable and accurate waveform display. Correct calibration of the oscilloscope ensures that measurements are reliable and precise. Additionally, this experiment enhances our knowledge about the different functionalities and settings of an Oscilloscope. Overall, This experiment is very important to do whenever we will be using an Oscilloscope, as this ensures the accuracy and reliability of the output we will be gathered for the future experiments. 
 
-## Experiment 2: Setting Up an Oscilloscope
+## Experiment 2: An Introduction to the Telecoms-Trainer 101
 
 ## Introduction
 The **Emona Telecoms Trainer 101** is an educational platform used by students to study the fundamental principles of **Communications and Telecommunications**. It provides a hands-on learning experience by allowing students to implement, observe, and analyze various communication system block diagrams using real hardware modules.
@@ -90,6 +90,13 @@ The objective of this experiment is to become familiar with the different module
 3. Two Emona Telecoms-Trainer Oscillocscope lead
 4. Assorted Emona Telecoms-Trainer 101 patch leads
 5. One set of Headphones (stereo)
+
+## THINGS YOU NEED TO KNOW:
+- Two signals that are in phase with each other are synchronised. That is, they go up and down at the same time.
+- Two signals that out of phase are not synchronised. That is, they are out of step with cach other. An example of two signals that are out of phase is shown in Figure 3 below.
+- Phase difference describes how much two signals are out of phase and is measured in degrees (like degrees in a circle). Signals that are in phase have a phase difference of 0. Signals that are out of phase have a phase difference 0° but 360°
+- A sinewave is a repetitive signal with the shape.
+- A cosine wave is simply a sinewave that is out of phase with another sinewave by exactly 90°. 
 
 
 
